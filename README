@@ -1,0 +1,8 @@
+*** mutex.cpp
+
+- descriptin:
+micro benchmark of mutex/atomic operations
+
+- compile:
+g++ mutex.cpp -lpthread
+
